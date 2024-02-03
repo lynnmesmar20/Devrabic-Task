@@ -1,0 +1,20 @@
+.customDrop{
+    text-align:center;
+    margin-top:10px;
+    
+}
+.customDrop .dropdown-toggle {
+  background: #c0e3e5;
+  background-image: -webkit-linear-gradient(top, #c0e3e5, #fdc936);
+  background-image: -moz-linear-gradient(top, #c0e3e5, #fdc936);
+  background-image: -ms-linear-gradient(top, #c0e3e5, #fdc936);
+  background-image: -o-linear-gradient(top, #c0e3e5, #fdc936);
+  background-image: linear-gradient(to bottom, #c0e3e5, #fdc936);
+  -webkit-border-radius: 33;
+  -moz-border-radius: 33;
+  border-radius: 33px;
+  border: solid #c0e3e5 2px!important;
+  color: #322625 !important;
+  width: 150px;
+  }
+

@@ -1,0 +1,15 @@
+.box{
+    text-align: center;
+    margin-top:10px;
+    
+}
+.search-box{
+    
+    color: #322625;
+    border: 2px solid #c0e3e5;
+    width:300px;
+}
+.search-box:hover {
+   border-color: #fdc936;
+  }
+ 

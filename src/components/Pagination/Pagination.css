@@ -1,0 +1,38 @@
+.customPage{
+    margin-top:10px;
+    
+}
+.customPage .page-link {
+    color: #322625 !important;
+    background-color: #ebebeb;
+   
+  }
+  
+.customPage .page-link:hover {
+    color: #322625; 
+    background-color: #fdc936 !important;
+   
+  }
+  
+  
+.customPage .page-item:active .page-link {
+    background-color: #fdc936 !important; 
+    color: #322625; 
+    z-index: 1;
+  }
+  
+  
+  .customPage .pagination .page-link {
+    padding: 0.5rem 0.75rem; 
+  }
+  
+  .customPage .pagination .page-item:first-child .page-link,
+  .customPage .pagination .page-item:last-child .page-link {
+    border-radius: 0.25rem;
+  }
+
+  
+ 
+  
+ 
+  

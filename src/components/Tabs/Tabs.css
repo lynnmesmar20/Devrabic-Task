@@ -1,0 +1,15 @@
+.customTab{
+    background-color:  #ebebeb;
+   
+}
+
+.tabTitle{
+    color:#322625;
+}
+.tabTitle:hover {
+  color: #c0e3e5;
+  }
+  
+.tabTitle:active { 
+    color: #fdc936;
+  }
